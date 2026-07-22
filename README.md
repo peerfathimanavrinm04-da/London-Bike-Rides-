@@ -1,6 +1,6 @@
-## London Bike Rides 
-### **Tool**: PYthon | Tableau
-<br><br>
+## **London Bike Rides** 
+#### **Tool**: Python | Tableau
+<br>
 <img src = "https://github.com/peerfathimanavrinm04-da/London-Bike-Rides-/blob/daa0d67907bae73b10908e5a37228b87f4182bba/Screenshot%20(60).png">
 <br>
 ### **Overview**
