@@ -3,6 +3,7 @@
 <br>
 <img src = "https://github.com/peerfathimanavrinm04-da/London-Bike-Rides-/blob/daa0d67907bae73b10908e5a37228b87f4182bba/Screenshot%20(60).png">
 <br>
+
 ### **Overview**
 The London Bike Rides Dashboard analyzes over 3 million rides recorded between July 16, 2016 and October 10, 2016. It combines time-series trends, weather conditions, and environmental factors to uncover how external variables influence bike usage in London. By integrating ride counts with temperature, wind speed, and hourly distribution, the dashboard provides actionable insights into commuter behavior, peak usage times, and the impact of weather on cycling activity.
 
